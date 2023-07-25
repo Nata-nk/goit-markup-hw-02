@@ -11,19 +11,6 @@ body {
 .list {
   list-style-type: none;
 }
-.visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
-
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0 0 0 0);
-  overflow: hidden;
-}
 
 /* -----------------HEADER------------------- */
 
@@ -128,7 +115,7 @@ body {
 
 /* ----------------OUR-TEAM------------------- */
 .ourteam {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 .ourteam-title {
   color: var(--navyblue, #2e2f42);
@@ -137,7 +124,6 @@ body {
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  text-transform: capitalize;
 }
 
 .ourteam-item-text {
