@@ -135,9 +135,6 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.ourteam-list {
-  background-color: #ffffff;
-}
 
 .ourteam-item-text {
   color: var(--slate, #434455);
