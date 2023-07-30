@@ -192,8 +192,8 @@ body {
 }
 .portfolio-navigation-btn:hover,
 .portfolio-navigation-btn:focus {
-  background-color: #404bbf;
-  color: #ffffff;
+  background-color: var(--color-ocean);
+  color: var(--color-white);
   cursor: pointer;
 }
 
