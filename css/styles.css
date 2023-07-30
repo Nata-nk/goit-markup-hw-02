@@ -57,7 +57,7 @@ body {
 
 .header-menu-link:hover,
 .header-menu-link:focus {
-  color: var(--color-ocean);
+  color: color: #404bbf;
 }
 
 .header-address {
