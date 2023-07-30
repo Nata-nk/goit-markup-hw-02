@@ -40,7 +40,7 @@ body {
 }
 
 .logo-navy {
-  color: #f4f4fd;
+  color: var(--navyblue, #2e2f42);
 }
 
 .logo-nav {
