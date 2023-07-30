@@ -99,16 +99,16 @@ body {
   background-color: #404bbf;
 }
 
-/* ----------------SECTIION1------------------- */
+/* ----------------SECTIIONONE------------------- */
 
-.section1-subtitele {
+.sectionone-subtitele {
   color: var(--color-navy-blue-modal);
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-.section1-text {
+.sectionone-text {
   color: var(--color-slate);
   font-size: 16px;
   font-weight: 400;
