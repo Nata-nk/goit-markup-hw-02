@@ -55,8 +55,8 @@ body {
   letter-spacing: 0.02em;
 }
 
-.header-menu-link:hover,
-.header-menu-link:focus {
+.menu-link:hover,
+.menu-link:focus {
   color: var(--color-ocean);
 }
 
