@@ -138,6 +138,11 @@ body {
 .ourteam {
   background-color: #f4f4fd;
 }
+
+.ourteam-item {
+  background-color: #ffffff;
+}
+
 .ourteam-title {
   color: var(--color-navy-blue-modal);
   text-align: center;
