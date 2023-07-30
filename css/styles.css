@@ -57,7 +57,7 @@ body {
 
 .header-menu-link:hover,
 .header-menu-link:focus {
-  color: color: #404bbf;
+  color: var(--color-ocean);
 }
 
 .header-address {
@@ -139,7 +139,7 @@ body {
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
-   text-transform: capitalize;
+  text-transform: capitalize;
 }
 
 .ourteam-item-text {
